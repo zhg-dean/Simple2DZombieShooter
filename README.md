@@ -1,5 +1,5 @@
 # Simple2DZombieShooter
-A fast-paced 2D zombie shooter made for the ConUHacks hackathon. Survive waves of zombies for as long as possible while dodging attacks and shooting enemies!
+A fast-paced 2D zombie shooter made for the **ConUHacks hackathon**. Survive waves of zombies for as long as possible while dodging attacks and shooting enemies!
 
 ## Goal
 The goal of the game is to survive as long as possible without letting the zombies reach the left edge or touch you. 
